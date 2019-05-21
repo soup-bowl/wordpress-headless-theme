@@ -1,8 +1,11 @@
 /*
 Theme Name: WordPress Headless Theme
-Description: Redirects all front-end URLs to the admin, and hides post/page related elements.
+Theme URI: https://gitlab.com/soup-bowl/wp-headless-theme
+Description: Redirects all front-end URLs to the admin, and hides the relevant elements from the admin control panel. This theme hides posts, pages, and view buttons for the homepage, making WordPress appear truly headless.
 Author: soup-bowl
-Author URI: https://gitlab.com/soup-bowl/kebabble
-Version: 1
+Author URI: https://www.soupbowl.io
+Version: 1.0.1
 License: MIT
+License URI: https://opensource.org/licenses/MIT
+Text Domain: wpheadlesstheme
 */
